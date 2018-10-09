@@ -1,0 +1,4 @@
+What is the name of your Function App?
+What is your Subscription ID?
+When does the issue happened?
+What time is it now?
